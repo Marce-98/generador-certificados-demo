@@ -1,4 +1,4 @@
-# 📄 Generador de Certificados
+# Generador de Certificados
 
 **Generación masiva de certificados digitales personalizados.** A partir de una plantilla
 gráfica y una planilla Excel, produce automáticamente todos los certificados de un evento
@@ -7,24 +7,42 @@ gráfica y una planilla Excel, produce automáticamente todos los certificados d
 Desarrollado para la **Facultad de Ciencias de la Salud, Universidad Nacional de Salta (UNSa)**,
 donde está en uso para la emisión de certificados de cursos y jornadas.
 
-> 💼 **Software comercial.** El código fuente no es público. Licenciamiento para
+> **Software comercial.** El código fuente no es público. Licenciamiento para
 > instituciones — ver [Cómo obtenerlo](#-cómo-obtenerlo).
 
 ---
 
-## 🎬 Verlo funcionando
+## Verlo funcionando
+
+### ▶️ Video de demostración
+
+<!-- ═══════════════════════════════════════════════════════════════
+     COMO INCRUSTAR EL VIDEO (para que se reproduzca acá, sin descarga):
+       1. Abrí este README en github.com y tocá el lápiz (Edit).
+       2. Arrastrá el archivo del video dentro del cuadro de edición
+          (o usá "paste, drop, or click to add files" abajo del editor).
+       3. GitHub lo sube y deja sola una línea como:
+              https://github.com/user-attachments/assets/xxxxxxxx-....
+          Dejá esa línea acá, justo debajo de este comentario.
+       4. Commit changes. El reproductor aparece automáticamente.
+     ═══════════════════════════════════════════════════════════════ -->
+
+_🎥 Video de demostración disponible a pedido — o se incrusta acá siguiendo los pasos de arriba._
+
+### Capturas
 
 | | |
 |---|---|
-| **Video: de la planilla al certificado** | [`demo/demo-completa.mp4`](demo/) |
-| **Editor visual** | ![Editor](capturas/01-editor.png) |
-| **Variables y formato** | ![Formato](capturas/02-formato.png) |
-| **Generación masiva** | ![Generación](capturas/03-generacion.png) |
-| **Certificado final** | ![Resultado](capturas/04-resultado.png) |
+| **Editor visual** | ![Editor](muestra/01-editor.png) |
+| **Variables y formato** | ![Formato](muestra/02-formato.png) |
+| **Generación masiva** | ![Generación](muestra/03-generacion.png) |
+| **Certificado final** | ![Resultado](muestra/04-resultado.png) |
+
+_Las capturas usan datos ficticios._
 
 ---
 
-## ✨ Qué resuelve
+## Qué resuelve
 
 Emitir 200 certificados a mano es una tarde entera de copiar, pegar y exportar, con el
 riesgo de equivocar un nombre o un DNI. Esta herramienta lo reduce a **cargar dos archivos
@@ -37,7 +55,7 @@ y apretar un botón**.
 
 ---
 
-## 🧩 Funcionalidades
+## Funcionalidades
 
 **Editor visual**
 - Bloques de texto arrastrables y redimensionables desde las esquinas
@@ -67,7 +85,7 @@ y apretar un botón**.
 
 ---
 
-## ⚙️ Cómo funciona
+## Cómo funciona
 
 ```
 1 · Plantilla      Se carga la imagen de fondo del certificado
@@ -78,7 +96,7 @@ y apretar un botón**.
 
 ---
 
-## 🛠️ Tecnología
+## Tecnología
 
 | Capa | Tecnología |
 |---|---|
@@ -94,7 +112,7 @@ personales, lo que simplifica el cumplimiento en instituciones públicas.
 
 ---
 
-## 🔐 Cómo obtenerlo
+## Cómo obtenerlo
 
 El producto se licencia a instituciones bajo **suscripción**. La licencia incluye
 activación, actualizaciones y soporte.
@@ -102,12 +120,12 @@ activación, actualizaciones y soporte.
 Si tu institución necesita emitir certificados en volumen, escribime y coordinamos una
 **demostración en vivo**.
 
-📧 **marcelop.pizarro.d@gmail.com**
-🐙 [github.com/Marce-98](https://github.com/Marce-98)
+**marcelop.pizarro.d@gmail.com**
+[github.com/Marce-98](https://github.com/Marce-98)
 
 ---
 
-## 📌 Sobre este repositorio
+## Sobre este repositorio
 
 Este repositorio es una **vitrina**: contiene documentación, capturas y video del producto.
 El código fuente se mantiene en un repositorio privado y **no se distribuye** salvo bajo

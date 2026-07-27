@@ -1,0 +1,12 @@
+# Videos: NO se versionan.
+# Se suben como adjunto al README desde el editor web de GitHub,
+# asi se reproducen incrustados sin que nadie tenga que descargarlos.
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# Sistema operativo / editores
+Thumbs.db
+desktop.ini
+.DS_Store
