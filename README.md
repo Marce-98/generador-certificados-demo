@@ -14,7 +14,7 @@ donde está en uso para la emisión de certificados de cursos y jornadas.
 
 ## Verlo funcionando
 
-### ▶️ Video de demostración
+### Video de demostración
 
 <!-- ═══════════════════════════════════════════════════════════════
      COMO INCRUSTAR EL VIDEO (para que se reproduzca acá, sin descarga):
@@ -26,8 +26,7 @@ donde está en uso para la emisión de certificados de cursos y jornadas.
           Dejá esa línea acá, justo debajo de este comentario.
        4. Commit changes. El reproductor aparece automáticamente.
      ═══════════════════════════════════════════════════════════════ -->
-
-_🎥 Video de demostración disponible a pedido — o se incrusta acá siguiendo los pasos de arriba._
+[ejemplo-de-funcionamiento.webm](https://github.com/user-attachments/assets/07a8b7be-ce8c-4419-ab64-5af295a7a3f8)
 
 ### Capturas
 
