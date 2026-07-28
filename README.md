@@ -15,17 +15,6 @@ donde está en uso para la emisión de certificados de cursos y jornadas.
 ## Verlo funcionando
 
 ### Video de demostración
-
-<!-- ═══════════════════════════════════════════════════════════════
-     COMO INCRUSTAR EL VIDEO (para que se reproduzca acá, sin descarga):
-       1. Abrí este README en github.com y tocá el lápiz (Edit).
-       2. Arrastrá el archivo del video dentro del cuadro de edición
-          (o usá "paste, drop, or click to add files" abajo del editor).
-       3. GitHub lo sube y deja sola una línea como:
-              https://github.com/user-attachments/assets/xxxxxxxx-....
-          Dejá esa línea acá, justo debajo de este comentario.
-       4. Commit changes. El reproductor aparece automáticamente.
-     ═══════════════════════════════════════════════════════════════ -->
 [ejemplo-de-funcionamiento.webm](https://github.com/user-attachments/assets/07a8b7be-ce8c-4419-ab64-5af295a7a3f8)
 
 ### Capturas
